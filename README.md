@@ -4,7 +4,6 @@ This project focuses on analyzing Windows Event Logs, specifically for failed lo
 ## Tools Used
 - Event Viewer (built-in Windows tool)
 - Windows Security Logs
-- PowerShell (for filtering logs)
 ## Process
 1. Open Event Viewer on Windows.
 2. Filter and locate Event ID 4625 (Failed Logon).
